@@ -1,0 +1,12 @@
+[
+  {
+   "remote": "github",
+   "repository": "Pinky-Inky-and-Clyde/proprietary_vendor_lge",
+   "target_path": "vendor/lge",
+   "revision": "cm-12.1"
+  },
+ {
+   "repository": "android_kernel_google_msm",
+   "target_path": "kernel/google/msm"
+ }
+]
